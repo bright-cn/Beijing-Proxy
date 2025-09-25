@@ -1,6 +1,6 @@
 # Bright Data 的北京代理
 
-[![Promo](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/locations/cn/beijing)
+[![Promo](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo%20(1).png)](https://www.bright.cn/locations/cn/beijing)
 
 ## 概述
 使用 Bright Data 的[北京代理](https://www.bright.cn/locations/cn/beijing)，体验无缝的数据抓取，精准定位、稳定性一流、响应迅速。从北京发起网站抓取，不再轻易被封锁。
